@@ -1,0 +1,150 @@
+{
+  "business": {
+    "name": "Super Fusion Cuisine II",
+    "neighborhood": "Watertown Square, Watertown, MA",
+    "district": "Watertown Square",
+    "schemaType": "Restaurant",
+    "summary": "Long-standing Japanese casual dining institution and sushi bar famous for generous sashimi cuts, signature toro specialty maki, and fresh fusion rolls.",
+    "phone": "(617) 393-0008",
+    "phoneRaw": "6173930008",
+    "heroImage": "/images/super-fusion-hero.jpg",
+    "priceRange": "$$",
+    "areaServed": [
+      "Watertown",
+      "Newton",
+      "Belmont",
+      "Cambridge",
+      "Waltham",
+      "Brighton"
+    ],
+    "directActionUrl": "https://www.superfusionsushi.com/",
+    "directActionLabel": "Order Online",
+    "smsPrompt": "Hi, I would like to place an order for pickup/delivery at Super Fusion Cuisine II."
+  },
+  "contact": {
+    "address": "54 Mt Auburn St, Watertown, MA 02472",
+    "addressObject": {
+      "streetAddress": "54 Mt Auburn St",
+      "addressLocality": "Watertown",
+      "addressRegion": "MA",
+      "postalCode": "02472",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "latitude": 42.3654,
+      "longitude": -71.1818
+    },
+    "googleMapsUrl": "https://maps.google.com/?q=54+Mt+Auburn+St+Watertown+MA+02472",
+    "email": "info@superfusionsushi.com",
+    "formEndpoint": "https://formspree.io/f/superfusioncontact",
+    "parkingAndTransit": {
+      "parkingNote": "Street metered parking available along Mt. Auburn Street and in nearby Watertown Square municipal parking lots.",
+      "transitNote": "Conveniently located 2 minutes on foot from Watertown Square station, connecting MBTA bus lines 57, 70, and 71."
+    }
+  },
+  "tracking": {
+    "ga4Id": "G-XXXXXXXXXX"
+  },
+  "hours": [
+    {
+      "day": "Monday - Friday (Lunch)",
+      "hours": "11:30 AM - 2:45 PM",
+      "opens": "11:30",
+      "closes": "14:45",
+      "closed": false
+    },
+    {
+      "day": "Monday - Friday (Dinner)",
+      "hours": "5:00 PM - 9:30 PM",
+      "opens": "17:00",
+      "closes": "21:30",
+      "closed": false
+    },
+    {
+      "day": "Saturday",
+      "hours": "12:00 PM - 9:30 PM",
+      "opens": "12:00",
+      "closes": "21:30",
+      "closed": false
+    },
+    {
+      "day": "Sunday",
+      "hours": "12:00 PM - 9:30 PM",
+      "opens": "12:00",
+      "closes": "21:30",
+      "closed": false
+    }
+  ],
+  "offerings": [
+    {
+      "title": "Watertown Maki",
+      "price": "$20.25",
+      "description": "Spicy tuna, yellowtail, and avocado, topped with a layer of torched salmon and eel sauce.",
+      "image": "/images/watertown-maki.jpg",
+      "tag": "House Special Maki"
+    },
+    {
+      "title": "Double Toro Maki",
+      "price": "$26.25",
+      "description": "Seared toro, avocado, and cucumber topped with torched toro, spicy mayo, eel sauce, and tempura crumbs.",
+      "image": "/images/double-toro-maki.jpg",
+      "tag": "Chef Special"
+    },
+    {
+      "title": "54 Maki",
+      "price": "$22.75",
+      "description": "Shrimp, avocado, and mango topped with spicy lobster, imitation crab, and tobiko.",
+      "image": "/images/54-maki.jpg",
+      "tag": "House Special Maki"
+    },
+    {
+      "title": "Baked Salmon Maki",
+      "price": "$17.75",
+      "description": "Imitation crab stick, tempura crumbs, and spicy mayo topped with salmon, spicy powder, and baked eel sauce.",
+      "image": "/images/baked-salmon.jpg",
+      "tag": "Baked Rolls"
+    },
+    {
+      "title": "Fusion Maki Combo (18 pcs)",
+      "price": "$18.95",
+      "description": "Tuna roll, California roll, and shrimp tempura roll; served with miso soup.",
+      "image": "/images/fusion-combo.jpg",
+      "tag": "Combos"
+    },
+    {
+      "title": "Chirashi Sushi",
+      "price": "$30.00",
+      "description": "Chef's selection of fresh assorted sashimi arranged over seasoned sushi rice, accompanied by miso soup.",
+      "image": "/images/chirashi.jpg",
+      "tag": "Sushi Bar Entrees"
+    }
+  ],
+  "socialProof": {
+    "rating": "4.8",
+    "reviewCount": 1720,
+    "googleMapsReviewsUrl": "https://maps.google.com/?q=54+Mt+Auburn+St+Watertown+MA+02472",
+    "reviews": [
+      {
+        "author": "Linda K.",
+        "rating": 5,
+        "date": "Grubhub Verified",
+        "text": "The best place to pick up sushi. They're quick, efficient, and very friendly. Consistently sublime service.",
+        "source": "Grubhub"
+      },
+      {
+        "author": "Cat M.",
+        "rating": 5,
+        "date": "Grubhub Verified",
+        "text": "The fish is super fresh and the entrées and combination platters are excellent! Staff is always friendly and prompt.",
+        "source": "Grubhub"
+      },
+      {
+        "author": "Lauryn T.",
+        "rating": 5,
+        "date": "Seamless Verified",
+        "text": "My go-to sushi restaurant! The food is always perfect and prepared quickly.",
+        "source": "Seamless"
+      }
+    ]
+  }
+}

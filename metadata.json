@@ -1,0 +1,6 @@
+{
+  "name": "Super Fusion Cuisine II",
+  "description": "Watertown Square Japanese casual dining institution and sushi bar famous for generous sashimi cuts, signature toro specialty maki, and fresh fusion rolls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
